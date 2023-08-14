@@ -289,6 +289,6 @@ var monerooceanWebMinerUI = function() {
 	}
 }();
 
-(document).ready(function() {
-	monerooceanWebMinerUI.initialize('#moneroocean-web-miner');
+$(document).ready(function() {
+    monerooceanWebMinerUI.initialize('#moneroocean-web-miner');
 });
