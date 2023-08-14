@@ -289,6 +289,7 @@ var monerooceanWebMinerUI = function() {
 	}
 }();
 
-$(document).ready(function() {
-    monerooceanWebMinerUI.initialize('#moneroocean-web-miner');
+document.addEventListener("DOMContentLoaded", function() {
+    var element = document.querySelector('#moneroocean-web-miner');
+    monerooceanWebMinerUI.initialize(element);
 });
