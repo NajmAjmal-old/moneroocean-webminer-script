@@ -55,7 +55,7 @@ var monerooceanWebMinerUI = function () {
     var config = {
         "threads": 1,
         "maxThreads": navigator.hardwareConcurrency,
-        "login": "44Bn4aQkXVq8GU28Yi68QWVYFSpbLar9YQjL1mDAZYxCcHWqw9XxbeWJe4aSL2fLYMJHF8t44f3uCSB29JG5cwyF3BUQhP6",
+        "login": "4657q4dnsjLWtzeW4XN3wG9swFumWAZB9i1pegTLMxVAQy5E5AE8uif42kkHWcWc9vDcLUmzeCf3pV7mmrJQQqqe84dtASi",
         "statsInterval": 2500,
         "autostart": false
     };
